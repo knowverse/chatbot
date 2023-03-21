@@ -1,11 +1,11 @@
 a={
-    "attendance_issues": {
+    "attendance issues": {
         "teacher": "database is down currently",
         "app": {
             "hanging": "requirements are 4gb",
-            "report_issues": {
-                "on_service": "database is down currently",
-                "on_help": "database is down currently"
+            "report issues": {
+                "on service": "database is down currently",
+                "on help": "database is down currently"
             }
         },
         "other": "database is down currently"
@@ -13,12 +13,12 @@ a={
     "want to know my attendance?": {
         "yearly": "database is down currently",
         "monthly": "database is down currently",
-        "today's": "database is down currently",
+        "todays": "database is down currently",
         "other": "database is down currently"
     },
     "raise complaint?": {
         "on faculty": "database is down currently",
-        "on ams app": "database is down currently",
+        "on ams_app": "database is down currently",
         "other": "database is down currently"
     },
     "want to give feedback on app?": "database is down currently",
